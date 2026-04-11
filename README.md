@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,30:071224,60:0b1a32,100:00d9ff&text=ctOS%20NETWORK%20//%20MORTADA98&fontColor=e6fbff&fontAlignY=33&desc=Chicago%20Grid%20Node%20-%20Access%20Granted&descAlignY=52&descSize=15&animation=fadeIn" alt="ctOS Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,30:071224,60:0b1a32,100:00d9ff&text=ctOS%20NETWORK%20//%20MORTADA98&fontColor=e6fbff&fontAlignY=33&desc=Chicago%20Grid%20Node%20-%20Access%20Granted&descAlignY=52&descSize=15&animation=fadeIn" alt="Watch Dogs ctOS-style header banner with navy to cyan gradient and MORTADA98 network node access text" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=%3E%3E%3E+BOOTING+ctOS+PROFILE+INTERFACE...;%3E%3E%3E+SYNCING+SATELLITE+MAP+LAYERS...;%3E%3E%3E+VERIFYING+OPERATOR+SIGNATURE...;%3E%3E%3E+WELCOME+TO+MORTADA98+NETWORK+NODE." alt="Boot sequence" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=%3E%3E%3E+BOOTING+ctOS+PROFILE+INTERFACE...;%3E%3E%3E+SYNCING+SATELLITE+MAP+LAYERS...;%3E%3E%3E+VERIFYING+OPERATOR+SIGNATURE...;%3E%3E%3E+WELCOME+TO+MORTADA98+NETWORK+NODE." alt="Animated typing sequence showing ctOS profile boot steps: interface loading, satellite map sync, signature verification, and welcome confirmation" />
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@ AI...........: Local LLMs / Prompt Engineering / Applied AI
 ```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1800&color=6ee7ff&center=true&vCenter=true&width=700&lines=%3E%3E%3E+Rendering+city+overlay...;%3E%3E%3E+Injecting+module+registry...;%3E%3E%3E+Finalizing+operator+dashboard..." alt="Profile loading animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1800&color=6ee7ff&center=true&vCenter=true&width=700&lines=%3E%3E%3E+Rendering+city+overlay...;%3E%3E%3E+Injecting+module+registry...;%3E%3E%3E+Finalizing+operator+dashboard..." alt="Animated typing sequence for profile loading: city overlay rendering, module registry injection, and dashboard finalization" />
 </div>
 
 ---
@@ -73,5 +73,5 @@ AI...........: Local LLMs / Prompt Engineering / Applied AI
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:030712,100:00d9ff&section=footer" alt="ctOS footer line" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:030712,100:00d9ff&section=footer" alt="Decorative horizontal footer line with navy to cyan gradient" />
 </div>
