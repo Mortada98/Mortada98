@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="100%" alt="Animated 8-bit lofi desk header" />
+  <img src="./assets/retro-header.gif" width="100%" alt="Animated 8-bit lofi desk header with pacman, snake, and spaceship bug loop" />
   <p><strong>Mortada98.exe</strong> • Software Engineer • 42 Network</p>
   <p><sub>If the animation does not load, view profile: <a href="https://github.com/Mortada98">github.com/Mortada98</a></sub></p>
 </div>
@@ -33,14 +33,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&w=900&q=60" alt="Pixel arcade inspired project thumbnail" />
+      <img src="./assets/project-source.png" alt="Pixel arcade inspired project thumbnail for The Source" />
       <br/>
       <strong>The Source</strong><br/>
       AI-powered digital identity verification platform.<br/>
       Focus: security checks, validation flow, practical deployment.
     </td>
     <td width="50%" valign="top">
-      <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=60" alt="Retro terminal inspired study thumbnail" />
+      <img src="./assets/project-cpp.png" alt="Retro terminal inspired study thumbnail for 42 C++ Core" />
       <br/>
       <strong>42 C++ Core</strong><br/>
       Deep dive into memory, architecture, and low-level optimization.<br/>
@@ -61,8 +61,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake contribution animation" />
-  <p><sub>Fallback: contributions are always available directly on the profile graph.</sub></p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mortada98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=00C2A8" alt="Contribution activity graph" />
+  <p><sub>Fallback: activity is always available on the profile contribution graph.</sub></p>
 </div>
 
 ## 📬 Contact Node
