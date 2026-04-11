@@ -1,79 +1,164 @@
+<!--
+  ╔══════════════════════════════════════════════════════════╗
+  ║  ctOS PROFILE :: GITHUB NODE INTERFACE v1.0.0-a         ║
+  ║  Property of [YOUR NAME]. Sentinel Active Monitoring.   ║
+  ╚══════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-  <img src="./assets/retro-header.gif" width="100%" alt="Profile header animation" />
-  <p><strong>Mortada98.exe</strong> • Software Engineer • 42 Network</p>
-  <p><sub>If the animation does not load, open the static header asset: <a href="./assets/retro-header.gif">retro-header.gif</a>.</sub></p>
+
+<!-- DIAMOND LOGO SVG -->
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="6" y="6" width="48" height="48" transform="rotate(45 30 30)" stroke="#888880" stroke-width="1.5" fill="none"/>
+  <rect x="16" y="16" width="28" height="28" transform="rotate(45 30 30)" fill="#1a1a18" stroke="#555550" stroke-width="1"/>
+  <rect x="23" y="23" width="14" height="14" transform="rotate(45 30 30)" fill="#e8e8e0" stroke="#a0a09a" stroke-width="0.5"/>
+</svg>
+
+<br/>
+
+```
+╔─────────────────────────────────────────────────────────────────╗
+│  IDENTITY VERIFIED                                              │
+│  ─────────────────────────────────────────────────────          │
+│  EMPID ##    [YOUR-HANDLE]        CLASS    DEV_L5_PROV          │
+│  FULL NAME   [YOUR NAME]          NODE     [YOUR.LOCATION]      │
+│  SESSION     ACTIVE               UPTIME   [X] YEARS            │
+╚─────────────────────────────────────────────────────────────────╝
+```
+
 </div>
 
 ---
 
 <div align="center">
 
-```text
-> boot sequence: online
-> mode: 8-bit x lofi
-> mission: build reliable systems, tune linux workflows, ship practical AI tooling
+```
+» SESSION_ESTABLISHED :: GITHUB.COM/[YOUR-HANDLE]
+» REGION_LINK : [YOUR-REGION]
+» [PROFILE_IDP] CIPHER_NEGOTIATED ←→ https://github.com
+» [PROFILE_IDP] Opened session for user([YOUR-HANDLE])
+» [PROFILE_IDP] IDENTITY_VERIFIED // WELCOME BACK
+─────────────────── LOADING PROFILE DATA ───────────────────
 ```
 
 </div>
 
+---
+
+## `// 01 — ABOUT`
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  [YOUR NAME]                                                │
+│  ────────────────────────────────                           │
+│  ROLE          [e.g. Full Stack Engineer]                   │
+│  CLEARANCE     L5_PROV :: Senior / Independent              │
+│  FOCUS         [Your main tech focus]                       │
+│  STATUS        ● ACTIVE — Currently building [X]           │
+│  LOCATION      [City, Country] :: Node [XX.XXX.XXX.XXX]    │
+└─────────────────────────────────────────────────────────────┘
+```
+
+> [Short 1–2 sentence bio written in a neutral, clinical tone.  
+> Example: "Systems architect focused on distributed infrastructure and developer tooling.  
+> All output is logged. All commits are monitored."]
+
+---
+
+## `// 02 — TECH STACK`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  PROTOCOL REGISTRY :: AUTHORIZED TOOLS                       │
+├────────────────────┬─────────────┬──────────────────────────┤
+│  CATEGORY          │  LEVEL      │  SYSTEMS                 │
+├────────────────────┼─────────────┼──────────────────────────┤
+│  LANG_CORE         │  L5_NATIVE  │  [e.g. TypeScript, Rust] │
+│  LANG_SECONDARY    │  L4_PROV    │  [e.g. Python, Go]       │
+│  FRAMEWORK         │  L5_PROV    │  [e.g. Next.js, React]   │
+│  INFRA             │  L4_PROV    │  [e.g. Docker, K8s]      │
+│  DB                │  L4_CERT    │  [e.g. Postgres, Redis]  │
+│  TOOLING           │  L5_NATIVE  │  [e.g. Git, Neovim]      │
+└────────────────────┴─────────────┴──────────────────────────┘
+```
+
+---
+
+## `// 03 — ACTIVE DEPLOYMENTS`
+
+```
+─────────────── PROJECT REGISTRY :: STATUS ACTIVE ──────────────
+```
+
+**`[PROJECT-NAME-01]`** &nbsp;&nbsp; `● ACTIVE`
+```
+EMPID     [proj-id-001]
+DESC      [One sentence description of what this project does]
+STACK     [Tech stack used]
+LINK      github.com/[handle]/[repo]
+```
+
+**`[PROJECT-NAME-02]`** &nbsp;&nbsp; `● ACTIVE`
+```
+EMPID     [proj-id-002]
+DESC      [One sentence description of what this project does]
+STACK     [Tech stack used]
+LINK      github.com/[handle]/[repo]
+```
+
+**`[PROJECT-NAME-03]`** &nbsp;&nbsp; `◌ ARCHIVED`
+```
+EMPID     [proj-id-003]
+DESC      [One sentence description of what this project does]
+STACK     [Tech stack used]
+LINK      github.com/[handle]/[repo]
+```
+
+```
+─────────────────────────── END REGISTRY ────────────────────────
+```
+
+---
+
+## `// 04 — SYSTEM METRICS`
+
 <div align="center">
-  <img src="https://img.shields.io/badge/palette-%23120E2A-121212?style=flat-square" alt="retro palette" />
-  <img src="https://img.shields.io/badge/font-monospace-9D4EDD?style=flat-square" alt="monospace style" />
-  <img src="https://img.shields.io/badge/layout-pixel%20grid-00C2A8?style=flat-square" alt="pixel grid layout" />
+
+<!-- GitHub Stats Cards — swap in your username -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&bg_color=080808&border_color=383830&title_color=e8e8e0&text_color=808078&icon_color=a0a09a&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&bg_color=080808&border_color=383830&title_color=e8e8e0&text_color=808078)
+
 </div>
 
-## 🧩 Pixel Skills Grid
+---
+
+## `// 05 — COMMUNICATION CHANNELS`
+
+```
+┌──────────────────────────────────────────────────────────────┐
+│  AUTHORIZED CONTACT PROTOCOLS                                │
+├──────────────────────────────────────────────────────────────┤
+│  EMAIL       [your@email.com]                               │
+│  LINKEDIN    linkedin.com/in/[handle]                       │
+│  PORTFOLIO   [yoursite.com]                                 │
+│  TWITTER/X   @[handle]                                      │
+└──────────────────────────────────────────────────────────────┘
+```
+
+> `[ENTER] TO CONFIRM CONNECTION`
+
+---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,bash,linux,git,vscode,vim,docker&theme=dark" alt="Core skills icons" />
-</div>
 
-## 🕹️ Retro Project Cards
+```
+─────────────────────────────────────────────────────────────
+  Property of [YOUR NAME]. All activity subject to logging.
+  profile-krn-1.0.0 ↔ ctOS-1.0.0-a :: Node GITHUB.COM
+─────────────────────────────────────────────────────────────
+```
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img src="./assets/project-source.png" alt="The Source project thumbnail" />
-      <br/>
-      <strong>The Source</strong><br/>
-      AI-powered digital identity verification platform.<br/>
-      Focus: security checks, validation flow, practical deployment.
-    </td>
-    <td width="50%" valign="top">
-      <img src="./assets/project-cpp.png" alt="42 C++ Core project thumbnail" />
-      <br/>
-      <strong>42 C++ Core</strong><br/>
-      Deep dive into memory, architecture, and low-level optimization.<br/>
-      Focus: robust abstractions and predictable performance.
-    </td>
-  </tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=383830&label=CONNECTIONS+LOGGED)
 
-## 📡 Pixel Telemetry
-
-<div align="center">
-  <a href="https://github.com/Mortada98">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mortada98&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=00C2A8&text_color=C9D1D9&bg_color=0D1117" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/Mortada98">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortada98&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mortada98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=00C2A8" alt="Contribution activity graph" />
-</div>
-
-## 🐍 42 Contributions Snake (Last Year)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Mortada98/Mortada98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating contribution points from the last year" />
-</div>
-
-## 📬 Contact Node
-
-<div align="center">
-  <a href="https://github.com/Mortada98">GitHub</a> •
-  <a href="https://github.com/Mortada98/Mortada98/issues">Issues</a> •
-  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">Lofi Stream</a>
 </div>
