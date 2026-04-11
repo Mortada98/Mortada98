@@ -1,17 +1,17 @@
 <svg width="900" height="64" viewBox="0 0 900 64" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
     
-    <pattern id="sl2" x="0" y="0" width="1" height="2" patternUnits="userSpaceOnUse">
+    <pattern id="sl2-metrics" x="0" y="0" width="1" height="2" patternUnits="userSpaceOnUse">
       <rect x="0" y="0" width="1" height="1" fill="rgba(0,0,0,0.22)"/>
     </pattern>
     
-    <pattern id="grid2" x="0" y="0" width="18" height="18" patternUnits="userSpaceOnUse">
+    <pattern id="grid2-metrics" x="0" y="0" width="18" height="18" patternUnits="userSpaceOnUse">
       <path d="M 18 0 L 0 0 0 18" fill="none" stroke="#141410" stroke-width="0.4"/>
     </pattern>
   </defs>
   <rect width="900" height="64" fill="#060606"/>
-  <rect width="900" height="64" fill="url(#grid2)" opacity="0.55"/>
-  <rect width="900" height="64" fill="url(#sl2)"/>
+  <rect width="900" height="64" fill="url(#grid2-metrics)" opacity="0.55"/>
+  <rect width="900" height="64" fill="url(#sl2-metrics)"/>
   <rect x="0.5" y="0.5" width="899" height="63" stroke="#2e2e28" stroke-width="1" fill="none"/>
   <polyline points="0,14 0,0 14,0" stroke="white" stroke-width="1.2" fill="none"/>
   <polyline points="900,14 900,0 886,0" stroke="white" stroke-width="1.2" fill="none"/>
