@@ -1,57 +1,61 @@
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=700&color=00FF00&center=true&vCenter=true&width=1000&lines=%5BINIT%5D+Bypassing+firewall+layers...;%5BOK%5D+Unauthorized+access+granted;%5BSYNC%5D+Injecting+terminal+profile...;%5BREADY%5D+Connected+to+Mortada98)](https://git.io/typing-svg)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=180&section=header&text=ctOS%20//%20SYSTEM_COMPROMISED&fontSize=35&fontAlignY=35&desc=UNAUTHORIZED_ACCESS_DETECTED&descAlignY=55&descSize=15&animation=twinkling&fontColor=000000" alt="ctOS Header" />
+  
+  <br/>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=>>>+ESTABLISHING+UNSECURED+CONNECTION...;>>>+BYPASSING+BLUME+FIREWALLS...;>>>+DECRYPTING+USER+DATA...;>>>+PROFILE+ACCESS+GRANTED." alt="Typing Animation" />
+  </a>
 </div>
 
-```bash
-$ whoami
-> mortada98
-> location: Morocco
-> role: developer
-> status: advancing through 42 Network C++ curriculum
+<br/>
 
-$ sys_stats
-> specialization: complex C++ architecture
-> os: arch linux
-> wm: custom hyprland environment
-> ai_stack: local llm deployments
-```
+### ⚠️ [ SYSTEM_LOG_READOUT // UNSECURE_SESSION ] ⚠️
 
-```text
-[SYSTEM LOG :: NETWORK COMPROMISED]
-- Unauthorized profile access established.
-- Active objective: Build "The Source"
-- Mission profile: AI digital verification platform
-- Signal integrity: stable
-```
+~~~bash
+[MORTADA98@ARCH_HYPRLAND ~]$ whoami
+// SUBJECT: Mortada98
+// LOCATION: Morocco Central Hub
+// ACTIVE_OP: "The Source" // AI Digital Identity Validation Engine
 
-```bash
-$ ls -l ./tech_stack
--rwxr-xr-x  1 root root   704 Apr 11 09:48 C++
--rw-r--r--  1 root root   416 Apr 11 09:52 Python
--rw-r--r--  1 root root   368 Apr 11 09:55 Arch_Linux
--rw-r--r--  1 root root   336 Apr 11 09:57 Hyprland
--rwxr-xr-x  1 root root   288 Apr 11 09:59 Bash
--rw-r--r--  1 root root   640 Apr 11 10:01 Google_Gemini
--rwxr-xr-x  1 root root   256 Apr 11 10:03 Git
-```
+[MORTADA98@ARCH_HYPRLAND ~]$ sys_stats --detailed
+// OS: Arch Linux x86_64
+// WM: Custom Hyprland Environment
+// CORE: Complex C++ Architecture [42 Network Curriculum]
+// AI_STACK: Local LLM Deployments & Prompt Engineering
+~~~
+
+<br/>
 
 <div align="center">
-
-![C++](https://img.shields.io/badge/C%2B%2B-ARCHITECTURE-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF00&color=000000&labelColor=000000)
-![Python](https://img.shields.io/badge/Python-AUTOMATION-000000?style=for-the-badge&logo=python&logoColor=00FF00&color=000000&labelColor=000000)
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-CUSTOM-000000?style=for-the-badge&logo=archlinux&logoColor=00FF00&color=000000&labelColor=000000)
-![Hyprland](https://img.shields.io/badge/Hyprland-TUNED-000000?style=for-the-badge&logo=wayland&logoColor=00FF00&color=000000&labelColor=000000)
-![Bash](https://img.shields.io/badge/Bash-SCRIPTING-000000?style=for-the-badge&logo=gnubash&logoColor=00FF00&color=000000&labelColor=000000)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-AI-000000?style=for-the-badge&logo=google&logoColor=00FF00&color=000000&labelColor=000000)
-![Git](https://img.shields.io/badge/Git-VERSIONING-000000?style=for-the-badge&logo=git&logoColor=00FF00&color=000000&labelColor=000000)
-
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=400&lines=>>>+EXTRACTING+LOADED+MODULES..." alt="Modules Loading" />
 </div>
 
 <div align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00&color=000000" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00&color=000000" alt="Python" />
+  <img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=00FF00&color=000000" alt="Arch" />
+  <img src="https://img.shields.io/badge/Hyprland-000000?style=for-the-badge&logo=hyprland&logoColor=00FF00&color=000000" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF00&color=000000" alt="Bash" />
+  <img src="https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=googlebard&logoColor=00FF00&color=000000" alt="Gemini" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mortada98&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF00&icon_color=00FF00&text_color=00FF00)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mortada98&layout=compact&hide_border=true&bg_color=000000&title_color=00FF00&text_color=00FF00)
+<br/>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=2000&color=00FF00&center=true&vCenter=true&width=400&lines=>>>+PULLING+LIVE+TELEMETRY..." alt="Telemetry Loading" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mortada98&show_icons=true&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00&bg_color=000000" alt="GitHub Stats" />
+  
+  <br/><br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortada98&layout=compact&hide_border=true&title_color=00FF00&text_color=00FF00&bg_color=000000" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FF00&height=5&section=footer" />
 </div>
