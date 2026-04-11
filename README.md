@@ -64,6 +64,12 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mortada98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=00C2A8" alt="Contribution activity graph" />
 </div>
 
+## 🐍 42 Contributions Snake (Last Year)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Mortada98/Mortada98/output/github-contribution-grid-snake-dark.svg" alt="Snake animation eating contribution points from the last year" />
+</div>
+
 ## 📬 Contact Node
 
 <div align="center">
