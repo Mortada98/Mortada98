@@ -21,20 +21,20 @@ $ sys_stats
 ```text
 [SYSTEM LOG :: NETWORK COMPROMISED]
 - Unauthorized profile access established.
-- Active objective: build "The Source"
+- Active objective: Build "The Source"
 - Mission profile: AI digital verification platform
 - Signal integrity: stable
 ```
 
 ```bash
 $ ls -l ./tech_stack
--rwxr-xr-x  C++
--rwxr-xr-x  Python
--rwxr-xr-x  Arch Linux
--rwxr-xr-x  Hyprland
--rwxr-xr-x  Bash
--rwxr-xr-x  Google Gemini
--rwxr-xr-x  Git
+-rwxr-xr-x  1 root root   512 Apr 11 10:00 C++
+-rwxr-xr-x  1 root root   384 Apr 11 10:00 Python
+-rwxr-xr-x  1 root root   256 Apr 11 10:00 Arch Linux
+-rwxr-xr-x  1 root root   192 Apr 11 10:00 Hyprland
+-rwxr-xr-x  1 root root   128 Apr 11 10:00 Bash
+-rwxr-xr-x  1 root root   640 Apr 11 10:00 Google Gemini
+-rwxr-xr-x  1 root root   160 Apr 11 10:00 Git
 ```
 
 <div align="center">
