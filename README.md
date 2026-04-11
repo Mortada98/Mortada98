@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="./assets/retro-header.gif" width="100%" alt="Animated 8-bit lofi desk header with pacman, snake, and spaceship bug loop" />
+  <img src="./assets/retro-header.gif" width="100%" alt="Profile header animation" />
   <p><strong>Mortada98.exe</strong> • Software Engineer • 42 Network</p>
-  <p><sub>If the animation does not load, view profile: <a href="https://github.com/Mortada98">github.com/Mortada98</a></sub></p>
+  <p><sub>If the animation does not load, <a href="https://github.com/Mortada98">visit Mortada98's GitHub profile</a>.</sub></p>
 </div>
 
 ---
@@ -33,14 +33,14 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="./assets/project-source.png" alt="Pixel arcade inspired project thumbnail for The Source" />
+      <img src="./assets/project-source.png" alt="The Source project thumbnail" />
       <br/>
       <strong>The Source</strong><br/>
       AI-powered digital identity verification platform.<br/>
       Focus: security checks, validation flow, practical deployment.
     </td>
     <td width="50%" valign="top">
-      <img src="./assets/project-cpp.png" alt="Retro terminal inspired study thumbnail for 42 C++ Core" />
+      <img src="./assets/project-cpp.png" alt="42 C++ Core project thumbnail" />
       <br/>
       <strong>42 C++ Core</strong><br/>
       Deep dive into memory, architecture, and low-level optimization.<br/>
@@ -62,7 +62,6 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mortada98&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=7C3AED&point=00C2A8" alt="Contribution activity graph" />
-  <p><sub>Fallback: activity is always available on the profile contribution graph.</sub></p>
 </div>
 
 ## 📬 Contact Node
