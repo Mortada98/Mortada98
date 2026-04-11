@@ -28,13 +28,13 @@ $ sys_stats
 
 ```bash
 $ ls -l ./tech_stack
--rwxr-xr-x  1 root root   512 Apr 11 10:00 C++
--rwxr-xr-x  1 root root   512 Apr 11 10:00 Python
--rwxr-xr-x  1 root root   512 Apr 11 10:00 Arch_Linux
--rwxr-xr-x  1 root root   512 Apr 11 10:00 Hyprland
--rwxr-xr-x  1 root root   512 Apr 11 10:00 Bash
--rwxr-xr-x  1 root root   512 Apr 11 10:00 Google_Gemini
--rwxr-xr-x  1 root root   512 Apr 11 10:00 Git
+-rwxr-xr-x  1 root root   704 Apr 11 09:48 C++
+-rw-r--r--  1 root root   416 Apr 11 09:52 Python
+-rw-r--r--  1 root root   368 Apr 11 09:55 Arch_Linux
+-rw-r--r--  1 root root   336 Apr 11 09:57 Hyprland
+-rwxr-xr-x  1 root root   288 Apr 11 09:59 Bash
+-rw-r--r--  1 root root   640 Apr 11 10:01 Google_Gemini
+-rwxr-xr-x  1 root root   256 Apr 11 10:03 Git
 ```
 
 <div align="center">
