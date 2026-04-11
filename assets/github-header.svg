@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300" width="100%" height="100%">
+  <rect width="800" height="300" fill="#000000" />
+  
+  <!-- Grid -->
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-opacity="0.1" stroke-width="1"/>
+  </pattern>
+  <rect width="800" height="300" fill="url(#grid)" />
+
+  <!-- Scanlines -->
+  <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="2" fill="#ffffff" fill-opacity="0.05" />
+  </pattern>
+  <rect width="800" height="300" fill="url(#scanlines)" />
+
+  <!-- ctOS Logo -->
+  <g transform="translate(50, 80)">
+    <rect x="0" y="0" width="60" height="60" fill="#ffffff" />
+    <text x="30" y="45" font-family="monospace" font-size="40" font-weight="bold" fill="#000000" text-anchor="middle">ct</text>
+    <text x="70" y="50" font-family="monospace" font-size="60" font-weight="300" fill="#ffffff" letter-spacing="5">OS</text>
+  </g>
+
+  <!-- Text elements -->
+  <text x="50" y="180" font-family="monospace" font-size="24" fill="#ffffff" letter-spacing="2">SYSTEM_BREACHED // MOURTADA.B</text>
+  <text x="50" y="210" font-family="monospace" font-size="14" fill="#ffffff" fill-opacity="0.5" letter-spacing="1">L5_PROV // SYSTEM ARCHITECT</text>
+  
+  <!-- Barcode / Hex -->
+  <g transform="translate(600, 50)">
+    <rect x="0" y="0" width="4" height="200" fill="#ffffff" fill-opacity="0.8" />
+    <rect x="8" y="0" width="2" height="200" fill="#ffffff" fill-opacity="0.4" />
+    <rect x="14" y="0" width="8" height="200" fill="#ffffff" fill-opacity="0.6" />
+    <rect x="26" y="0" width="2" height="200" fill="#ffffff" fill-opacity="0.3" />
+    <rect x="32" y="0" width="12" height="200" fill="#ffffff" fill-opacity="0.9" />
+    <rect x="48" y="0" width="4" height="200" fill="#ffffff" fill-opacity="0.5" />
+    <rect x="56" y="0" width="6" height="200" fill="#ffffff" fill-opacity="0.7" />
+    <text x="75" y="100" font-family="monospace" font-size="10" fill="#ffffff" fill-opacity="0.5" transform="rotate(90, 75, 100)" letter-spacing="2">ID:75252N-A698-4D95</text>
+  </g>
+
+  <!-- Decorative elements -->
+  <path d="M 50 250 L 300 250 L 320 270 L 550 270" fill="none" stroke="#ffffff" stroke-opacity="0.4" stroke-width="2" />
+  <circle cx="50" cy="250" r="4" fill="#ffffff" />
+  <circle cx="550" cy="270" r="4" fill="#ffffff" />
+</svg>
