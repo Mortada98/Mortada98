@@ -18,15 +18,15 @@
 
 ```bash
 [ctOS@network]$ id --operator
-NAME........: Mortada98
-ROLE........: Software Engineer / AI Builder
-ACTIVE_OP...: The Source (AI Digital Identity Validation Engine)
+NAME.........: Mortada98
+ROLE.........: Software Engineer / AI Builder
+ACTIVE_OP....: The Source (AI Digital Identity Validation Engine)
 
 [ctOS@network]$ scan --stack
-OS..........: Arch Linux x86_64
-WM..........: Hyprland
-CORE........: C++ / Systems / 42 Curriculum
-AI..........: Local LLMs / Prompt Engineering / Applied AI
+OS...........: Arch Linux x86_64
+WM...........: Hyprland
+CORE.........: C++ / Systems / 42 Curriculum
+AI...........: Local LLMs / Prompt Engineering / Applied AI
 ```
 
 <div align="center">
