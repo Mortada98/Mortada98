@@ -1,77 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,30:071224,60:0b1a32,100:00d9ff&text=ctOS%20NETWORK%20//%20MORTADA98&fontColor=e6fbff&fontAlignY=33&desc=Chicago%20Grid%20Node%20-%20Access%20Granted&descAlignY=52&descSize=15&animation=fadeIn" alt="Watch Dogs ctOS-style header banner with navy to cyan gradient and MORTADA98 network node access text" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Mortada98&fontSize=50&fontAlignY=38&desc=Software%20Engineer%20|%2042%20Network&descAlignY=60&descSize=20&fontColor=ffffff" alt="Header Banner" />
+</div>
+
+<br/>
+
+<h3 align="center">Crafting complex systems and elegant solutions.</h3>
+
+<div align="center">
+  <p>Building high-performance daemons, refining custom Linux environments, and deploying local AI architectures. Currently focused on advancing through the core C++ curriculum at the 42 Network.</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>⚡ Tech Stack</h3>
+  <br/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Hyprland-00A86B?style=for-the-badge&logo=hyprland&logoColor=white" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>🚀 Current Operations</h3>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=900&color=00D9FF&center=true&vCenter=true&width=900&lines=%3E%3E%3E+BOOTING+ctOS+PROFILE+INTERFACE...;%3E%3E%3E+SYNCING+SATELLITE+MAP+LAYERS...;%3E%3E%3E+VERIFYING+OPERATOR+SIGNATURE...;%3E%3E%3E+WELCOME+TO+MORTADA98+NETWORK+NODE." alt="Animated typing sequence showing ctOS profile boot steps: interface loading, satellite map sync, signature verification, and welcome confirmation" />
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <b>"The Source"</b><br/>
+        AI Digital Identity Verification Platform (Gemini API)
+      </td>
+      <td width="50%" align="center">
+        <b>42 Network</b><br/>
+        Advanced C++ Memory Management & Architecture
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00131f?style=for-the-badge&labelColor=071224&color=00d9ff" alt="Status Online" />
-  <img src="https://img.shields.io/badge/THREAT_LEVEL-MONITORED-00131f?style=for-the-badge&labelColor=071224&color=00d9ff" alt="Threat level monitored" />
-  <img src="https://img.shields.io/badge/GRID_NODE-MOROCCO_CENTRAL-00131f?style=for-the-badge&labelColor=071224&color=00d9ff" alt="Grid node Morocco" />
-</div>
-
----
-
-### `[ PROFILE_LOAD.OUT ]`
-
-```bash
-[ctOS@network]$ id --operator
-NAME.........: Mortada98
-ROLE.........: Software Engineer / AI Builder
-ACTIVE_OP....: The Source (AI Digital Identity Validation Engine)
-
-[ctOS@network]$ scan --stack
-OS...........: Arch Linux x86_64
-WM...........: Hyprland
-CORE.........: C++ / Systems / 42 Curriculum
-AI...........: Local LLMs / Prompt Engineering / Applied AI
-```
+<br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&pause=1800&color=6ee7ff&center=true&vCenter=true&width=700&lines=%3E%3E%3E+Rendering+city+overlay...;%3E%3E%3E+Injecting+module+registry...;%3E%3E%3E+Finalizing+operator+dashboard..." alt="Animated typing sequence for profile loading: city overlay rendering, module registry injection, and dashboard finalization" />
-</div>
-
----
-
-### `[ MODULES / CAPABILITIES ]`
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-071224?style=for-the-badge&logo=c%2B%2B&logoColor=8be9ff&labelColor=050b16&color=00d9ff" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-071224?style=for-the-badge&logo=python&logoColor=8be9ff&labelColor=050b16&color=00d9ff" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-071224?style=for-the-badge&logo=gnubash&logoColor=8be9ff&labelColor=050b16&color=00d9ff" alt="Bash" />
-  <img src="https://img.shields.io/badge/Arch_Linux-071224?style=for-the-badge&logo=archlinux&logoColor=8be9ff&labelColor=050b16&color=00d9ff" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Hyprland-071224?style=for-the-badge&logo=hyprland&logoColor=8be9ff&labelColor=050b16&color=00d9ff" alt="Hyprland" />
-  <img src="https://img.shields.io/badge/AI_Systems-071224?style=for-the-badge&logo=openai&logoColor=8be9ff&labelColor=050b16&color=00d9ff" alt="AI Systems" />
-</div>
-
----
-
-### `[ LIVE TELEMETRY ]`
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mortada98&show_icons=true&hide_border=true&title_color=8be9ff&icon_color=00d9ff&text_color=b8eeff&bg_color=030712&include_all_commits=true&count_private=true" alt="GitHub card showing Mortada98 total commits, pull requests, issues, stars, and overall contribution activity" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Mortada98&hide_border=true&background=030712&ring=00d9ff&fire=8be9ff&currStreakLabel=b8eeff&currStreakNum=8be9ff&dates=7dd3fc&sideNums=8be9ff&sideLabels=b8eeff" alt="GitHub streak card showing current contribution streak, longest streak, and active contribution days for Mortada98" />
-</div>
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortada98&layout=compact&hide_border=true&title_color=8be9ff&text_color=b8eeff&bg_color=030712" alt="Language distribution chart for Mortada98 repositories showing relative usage of top programming languages" />
-</div>
-
----
-
-### `[ CONNECT // TRACE ]`
-
-<div align="center">
+  <h3>📊 Telemetry</h3>
+  <br/>
   <a href="https://github.com/Mortada98">
-    <img src="https://img.shields.io/badge/GitHub-071224?style=for-the-badge&logo=github&logoColor=8be9ff&labelColor=050b16&color=00d9ff" alt="GitHub" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Mortada98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
-  <a href="mailto:mortadayiya@gmail.com">
-    <img src="https://img.shields.io/badge/Email-071224?style=for-the-badge&logo=gmail&logoColor=8be9ff&labelColor=050b16&color=00d9ff" alt="Email" />
+  <a href="https://github.com/Mortada98">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortada98&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:030712,100:00d9ff&section=footer" alt="Decorative horizontal footer line with navy to cyan gradient" />
 </div>
