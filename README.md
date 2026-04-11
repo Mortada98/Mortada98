@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/retro-header.gif" width="100%" alt="Profile header animation" />
   <p><strong>Mortada98.exe</strong> • Software Engineer • 42 Network</p>
-  <p><sub>If the animation does not load, <a href="https://github.com/Mortada98">visit Mortada98's GitHub profile</a>.</sub></p>
+  <p><sub>If the animation does not load, open the static header asset: <a href="./assets/retro-header.gif">retro-header.gif</a>.</sub></p>
 </div>
 
 ---
@@ -69,5 +69,5 @@
 <div align="center">
   <a href="https://github.com/Mortada98">GitHub</a> •
   <a href="https://github.com/Mortada98/Mortada98/issues">Issues</a> •
-  <a href="https://www.youtube.com/results?search_query=lofi+hip+hop+radio">Lofi Stream</a>
+  <a href="https://www.youtube.com/watch?v=jfKfPfyJRdk">Lofi Stream</a>
 </div>
