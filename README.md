@@ -30,10 +30,10 @@ $ sys_stats
 $ ls -l ./tech_stack
 -rwxr-xr-x  1 root root   512 Apr 11 10:00 C++
 -rwxr-xr-x  1 root root   384 Apr 11 10:00 Python
--rwxr-xr-x  1 root root   256 Apr 11 10:00 Arch Linux
+-rwxr-xr-x  1 root root   256 Apr 11 10:00 Arch_Linux
 -rwxr-xr-x  1 root root   192 Apr 11 10:00 Hyprland
 -rwxr-xr-x  1 root root   128 Apr 11 10:00 Bash
--rwxr-xr-x  1 root root   640 Apr 11 10:00 Google Gemini
+-rwxr-xr-x  1 root root   640 Apr 11 10:00 Google_Gemini
 -rwxr-xr-x  1 root root   160 Apr 11 10:00 Git
 ```
 
