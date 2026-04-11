@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,30:071224,60:0b1a32,100:00d9ff&text=ctOS%20NETWORK%20//%20MORTADA98&fontColor=e6fbff&fontAlignY=33&desc=Chicago%20Grid%20Node%20-%20Access%20Granted&descAlignY=52&descSize=15&animation=fadeIn" alt="ctOS header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:030712,30:071224,60:0b1a32,100:00d9ff&text=ctOS%20NETWORK%20//%20MORTADA98&fontColor=e6fbff&fontAlignY=33&desc=Chicago%20Grid%20Node%20-%20Access%20Granted&descAlignY=52&descSize=15&animation=fadeIn" alt="ctOS Header" />
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ AI...........: Local LLMs / Prompt Engineering / Applied AI
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mortada98&show_icons=true&hide_border=true&title_color=8be9ff&icon_color=00d9ff&text_color=b8eeff&bg_color=030712&include_all_commits=true&count_private=true" alt="GitHub card showing Mortada98 total commits, pull requests, issues, stars, and overall contribution activity" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Mortada98&hide_border=true&background=030712&ring=00D9FF&fire=8BE9FF&currStreakLabel=B8EEFF&currStreakNum=8BE9FF&dates=7DD3FC&sideNums=8BE9FF&sideLabels=B8EEFF" alt="GitHub streak card showing current contribution streak, longest streak, and active contribution days for Mortada98" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Mortada98&hide_border=true&background=030712&ring=00d9ff&fire=8be9ff&currStreakLabel=b8eeff&currStreakNum=8be9ff&dates=7dd3fc&sideNums=8be9ff&sideLabels=b8eeff" alt="GitHub streak card showing current contribution streak, longest streak, and active contribution days for Mortada98" />
 </div>
 
 <div align="center">
