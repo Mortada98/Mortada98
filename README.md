@@ -51,12 +51,12 @@ AI...........: Local LLMs / Prompt Engineering / Applied AI
 ### `[ LIVE TELEMETRY ]`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mortada98&show_icons=true&hide_border=true&title_color=8be9ff&icon_color=00d9ff&text_color=b8eeff&bg_color=030712&include_all_commits=true&count_private=true" alt="Mortada98 GitHub contribution statistics" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Mortada98&hide_border=true&background=030712&ring=00D9FF&fire=8BE9FF&currStreakLabel=B8EEFF&currStreakNum=8BE9FF&dates=7DD3FC&sideNums=8BE9FF&sideLabels=B8EEFF" alt="Mortada98 GitHub contribution streak statistics" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Mortada98&show_icons=true&hide_border=true&title_color=8be9ff&icon_color=00d9ff&text_color=b8eeff&bg_color=030712&include_all_commits=true&count_private=true" alt="GitHub card showing Mortada98 total commits, pull requests, issues, stars, and overall contribution activity" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Mortada98&hide_border=true&background=030712&ring=00D9FF&fire=8BE9FF&currStreakLabel=B8EEFF&currStreakNum=8BE9FF&dates=7DD3FC&sideNums=8BE9FF&sideLabels=B8EEFF" alt="GitHub streak card showing current contribution streak, longest streak, and active contribution days for Mortada98" />
 </div>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortada98&layout=compact&hide_border=true&title_color=8be9ff&text_color=b8eeff&bg_color=030712" alt="Mortada98 most used programming languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mortada98&layout=compact&hide_border=true&title_color=8be9ff&text_color=b8eeff&bg_color=030712" alt="Language distribution chart for Mortada98 repositories showing relative usage of top programming languages" />
 </div>
 
 ---
