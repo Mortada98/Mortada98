@@ -1,0 +1,20 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Corner dots -->
+  <circle cx="4" cy="4" r="2" fill="#555550"/>
+  <circle cx="116" cy="4" r="2" fill="#555550"/>
+  <circle cx="4" cy="116" r="2" fill="#555550"/>
+  <circle cx="116" cy="116" r="2" fill="#555550"/>
+  <!-- Outer diamond -->
+  <rect x="10" y="10" width="100" height="100" transform="rotate(45 60 60)" stroke="#888880" stroke-width="1.5" fill="none"/>
+  <!-- Mid diamond -->
+  <rect x="24" y="24" width="72" height="72" transform="rotate(45 60 60)" fill="#111110" stroke="#555550" stroke-width="1"/>
+  <!-- Inner diamond -->
+  <rect x="40" y="40" width="40" height="40" transform="rotate(45 60 60)" fill="#e8e8e0" stroke="#a0a09a" stroke-width="0.75"/>
+  <!-- Center dot -->
+  <circle cx="60" cy="60" r="3" fill="#111110"/>
+  <!-- Tick marks on outer diamond edges -->
+  <line x1="60" y1="10" x2="60" y2="18" stroke="#888880" stroke-width="1"/>
+  <line x1="60" y1="102" x2="60" y2="110" stroke="#888880" stroke-width="1"/>
+  <line x1="10" y1="60" x2="18" y2="60" stroke="#888880" stroke-width="1"/>
+  <line x1="102" y1="60" x2="110" y2="60" stroke="#888880" stroke-width="1"/>
+</svg>
